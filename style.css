@@ -1,0 +1,28 @@
+body
+{
+    size:26px;
+    background-color: #000000;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.main
+{
+    max-width: 1500px;
+    margin:0 auto;
+    padding: 25px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+#text
+{
+    align-self: center;
+    padding: 50px;
+}
+
+h4
+{
+    color: rgb(188,23,56);
+    opacity: 0.8;
+}
